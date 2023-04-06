@@ -5,7 +5,6 @@
  * @n: int to be added to b
  * @m: int to be added to a
  * Return: sum of n and m
-
  */
 
 int add(int n, int m)
